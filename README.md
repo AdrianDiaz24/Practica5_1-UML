@@ -33,8 +33,8 @@ b) Elementos de las clases. Tipos y propósito.
 
         - Metodos:
         
-            - agregarAlumno(estudiante: Estudiante) -> Es una funcion que anañe la variable "estudiante" de clase Estudiante
-            a la lista de estudiantes que pertenece al Curso
+            - agregarAlumno(estudiante: Estudiante) -> Es una funcion que anañe la variable "estudiante"
+            de clase Estudiante a la lista de estudiantes que pertenece al Curso
             - MostrasEstudiantes() -> Es una funcion que recorre todos los estudiantes de
             la lista de estudiantes y muestra sus datos
             
@@ -47,8 +47,8 @@ b) Elementos de las clases. Tipos y propósito.
 
         - Metodos:
             
-            - incribirse(curso: Curso) ->  Esta funcion permite que el estudiante se incriba al Curso añadiendose
-            en la lista de Estudiantes
+            - incribirse(curso: Curso) ->  Esta funcion permite que el estudiante se incriba al Curso
+            añadiendose en la lista de Estudiantes
 
 c)Significado del método agregarAlumno(). Funcionamiento.
 
