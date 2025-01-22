@@ -52,7 +52,23 @@ b) Elementos de las clases. Tipos y propósito.
 
 c)Significado del método agregarAlumno(). Funcionamiento.
 
+    Significado:
 
+        - La funcion agrega a un alumno a la lista de estudiantes del curso
+
+    Funcionamiento:
+
+        - Tendria una lista de esttuiantes y a esta le haria un .add y añadiria al
+        nuevo estudiante a la lista.
 
 
 d) Significado del método inscribirse()
+
+        Significado: 
+
+            - La funcion inscribe al estudiante a X Curso
+
+        Funcionamiento: 
+
+            - La funcion llamaria a la funcion agregarAlumno del curso seleccionado agregando
+            al propio estudiante
