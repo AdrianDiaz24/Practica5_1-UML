@@ -17,7 +17,6 @@ class Curso(private val nombre: String, private val codigo: String){
             println(estudiante)
         }
     }
-
 }
 
 class Estudiante(val nombre: String, val dni: String){
